@@ -1,0 +1,37 @@
+{include file="Common/header" /}
+<div class="page__hd" style="padding:20px 15px;">
+    <h1 class="">{$data['title']}</h1>
+    <p class="page__desc"><span style="margin-right:20px;">{:date('Y-m-d',$data['update_time'])}</span>
+        {$settings['name']}</p>
+</div>
+<div class="page__bd">
+    <article class="weui-article">
+        <img src="{$settings['logo']}" style="width:100%;max-height:120px;">
+    </article>
+    <p style="line-height: 25.6px; text-align: center;"><span
+            style="line-height: 25.6px; color: rgb(255, 0, 0);">●</span><span
+            style="line-height: 25.6px;">&nbsp;●&nbsp;</span><span
+            style="line-height: 25.6px; color: rgb(0, 176, 240);">●</span></p>
+</div>
+<div class="page__bd">
+    <article class="weui-article" id="showBody">
+        {:htmlspecialchars_decode($data['body_html'])}
+    </article>
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        showBodyIframe();
+        $(window).resize(function() {
+            showBodyIframe();
+        });
+        function showBodyIframe() {
+            var showBody = $('#showBody');
+            var showBodyW = showBody.width();//浏览器窗口高度
+            //alert(showBodyW);
+            showBody.find('iframe').width(showBodyW).height(showBodyW*0.7);
+        }
+
+
+    });
+</script>
+{include file="Common/footer" /}

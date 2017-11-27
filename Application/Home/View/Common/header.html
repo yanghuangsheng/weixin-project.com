@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>{$appName}</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="description" content="">
+    <link rel="stylesheet" type="text/css" href="__HOME_CSS__/weui.css">
+    <link rel="stylesheet" type="text/css" href="__HOME_CSS__/example.css">
+    <link rel="stylesheet" href="__HOME_CSS__/style.css">
+    <script src="__HOME_JS__/jquery-2.1.4.js"></script>
+    <script src="__HOME_JS__/adaptive.js" type="text/javascript" charset="utf-8"></script>
+    <script type="text/javascript">
+        adaPtive(); //铺页面调用
+        //页面加载时调用
+        $(function() { direction(); });
+        //用户变化屏幕方向时调用
+        $(window).on('orientationchange', function(e) { direction(); });
+        //调用adaptive
+        function adaPtive(max) {
+            window['adaptive'].desinWidth = 760;
+            window['adaptive'].baseFont = 24;
+            window['adaptive'].scaleType = 1;
+            window['adaptive'].maxWidth = max;
+            window['adaptive'].init();
+        }
+        //判断手机屏幕方向
+        function direction() { if (window.orientation == 90 || window.orientation == -90) { adaPtive(320); return false; } else if (window.orientation == 0 || window.orientation == 180) { adaPtive(); return false; } }
+    </script>
+</head>
+
+<body ontouchstart>

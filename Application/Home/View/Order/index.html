@@ -1,0 +1,29 @@
+{include file="Common/header" /}
+<div class="weui-form-preview" style="text-align: center;padding:20px;">
+    <img src="{$user['avatar']}" style="width: 80px;height: 80px;border-radius: 100%;border:0;">
+    <p>{$user['name']}</p>
+</div>
+{volist name="order" id="vo"}
+<div class="weui-form-preview" style="margin-top:25px;">
+    <div class="weui-form-preview__hd" >
+        <div class="weui-form-preview__item">
+            <label class="weui-form-preview__label" style="font-size:14px;">实付金额</label>
+            <span class="weui-form-preview__value" style="font-size:14px;color:#006400;"><font color="#ccc">({$vo['explain']})</font> {$vo['count_money']}</span>
+        </div>
+
+    </div>
+    <div class="weui-form-preview__bd" >
+        <div class="weui-form-preview__item">
+            <label class="weui-form-preview__label" style="font-size:14px;">订单号</label>
+            <span class="weui-form-preview__value" style="font-size:12px;color:#006400;">{$vo['order_number']}</span>
+        </div>
+    </div>
+    <div class="weui-form-preview__bd" >
+        <div class="weui-form-preview__item">
+            <label class="weui-form-preview__label" style="font-size:14px;">支付时间</label>
+            <span class="weui-form-preview__value" style="font-size:14px;color: #cccccc;">{:date('Y-m-d H:i:s',$vo['system_time'])}</span>
+        </div>
+    </div>
+</div>
+{/volist}
+{include file="Common/footer" /}

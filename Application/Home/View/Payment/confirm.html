@@ -1,0 +1,88 @@
+{include file="Common/header" /}
+    <script type="text/javascript">
+        //调用微信JS api 支付
+        function jsApiCall()
+        {
+            WeixinJSBridge.invoke(
+                    'getBrandWCPayRequest',
+                <?php echo $jsApiParameters; ?>,
+                function(res){
+                    WeixinJSBridge.log(res.err_msg);
+                    if(res.err_msg == 'get_brand_wcpay_request:ok'){
+                        $.post('{:U("Payment/replyPay")}', {order_number:'{$data["order_number"]}'} , function(data){
+                             $('#iosDialog2').fadeIn(200);
+                            setTimeout(function () {
+                                $('#iosDialog2').fadeOut(100);
+                            }, 3000);
+                        },'text');
+                    }
+                    if(res.err_msg == 'get_brand_wcpay_request:cancel'){
+                        $('#showTooltips').text('继续支付').show();
+                    }
+                    if(res.err_msg == 'get_brand_wcpay_request:fail'){
+                        $('#showTooltips').text('继续支付').show();
+                    }
+                    //alert(res.err_code+res.err_desc+res.err_msg);
+                }
+            );
+        }
+
+
+
+
+        function callpay()
+        {
+            if (typeof WeixinJSBridge == "undefined"){
+                if( document.addEventListener ){
+                    document.addEventListener('WeixinJSBridgeReady', jsApiCall, false);
+                }else if (document.attachEvent){
+                    document.attachEvent('WeixinJSBridgeReady', jsApiCall);
+                    document.attachEvent('onWeixinJSBridgeReady', jsApiCall);
+                }
+            }else{
+                jsApiCall();
+            }
+        }
+        callpay();
+    </script>
+
+    <div class="weui-form-preview" >
+        <div class="weui-form-preview__hd" style="margin-top:25px;">
+            <div class="weui-form-preview__item">
+                <label class="weui-form-preview__label" style="font-size:14px;">订单号</label>
+                <em class="weui-form-preview__value" style="font-size:12px;color:#006400;">{$data['order_number']}</em>
+            </div>
+        </div>
+        <div class="weui-form-preview__hd">
+            <div class="weui-form-preview__item">
+                <label class="weui-form-preview__label" style="font-size:14px;">实付金额</label>
+                <em class="weui-form-preview__value" style="font-size:14px;color:red;">¥{$data['count_money']}</em>
+            </div>
+        </div>
+        <div class="weui-form-preview__bd">
+            <div class="weui-form-preview__item">
+                <label class="weui-form-preview__label" style="font-size:14px;">姓名</label>
+                <em class="weui-form-preview__value" style="font-size:14px;">{$data['name']}</em>
+            </div>
+        </div>
+        {if condition="$data['phone']"}
+        <div class="weui-form-preview__bd">
+            <div class="weui-form-preview__item">
+                <label class="weui-form-preview__label" style="font-size:14px;">手机号码</label>
+                <em class="weui-form-preview__value" style="font-size:14px;">{$data['phone']}</em>
+            </div>
+        </div>
+        {/if}
+    </div>
+    <div class="weui-btn-area" style="margin-top:25px;">
+        <a class="weui-btn weui-btn_primary" href="javascript:" id="showTooltips" onclick="callpay()"  style="display: none;">立即支付</a>
+    </div>
+
+<div class="js_dialog" id="iosDialog2" style="display: none;">
+    <div class="weui-mask"></div>
+    <div class="weui-dialog">
+        <div class="weui-dialog__bd">成功支付<br><p>【怡安学车】感谢有你的支持！</p></div>
+    </div>
+</div>
+
+{include file="Common/footer" /}

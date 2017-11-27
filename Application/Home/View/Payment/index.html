@@ -1,0 +1,84 @@
+{include file="Common/header" /}
+<div class="weui-toptips weui-toptips_warn js_tooltips">错误提示</div>
+<div class="page__hd" style="padding:15px 5px 20px 5px;">
+    <div>
+        <h1 class="page__title" style="text-align: center">我要缴费</h1>
+    </div>
+    <p class="page__desc"></p>
+</div>
+<div class="page__bd">
+    <form id="baomingForm" method="post" action="{:U('Payment/confirm')}">
+        <div class="weui-cells__title">姓名</div>
+        <div class="weui-cells">
+            <div class="weui-cell">
+                <div class="weui-cell__bd">
+                    <input class="weui-input" name="name" type="text" placeholder="请输入本人身份证姓名"/>
+                </div>
+            </div>
+        </div>
+        <div class="weui-cells__title">缴费金额</div>
+        <div class="weui-cells">
+            <div class="weui-cell">
+                <div class="weui-cell__bd">
+                    <input class="weui-input" name="count_money" type="text" placeholder="请输入要缴纳的金额"/>
+                </div>
+            </div>
+        </div>
+        <div class="weui-cells weui-cells_radio">
+            <label class="weui-cell weui-check__label" for="x11">
+                <div class="weui-cell__bd">
+                    <p>二期部份学费</p>
+                </div>
+                <div class="weui-cell__ft">
+                    <input type="radio" name="explain" class="weui-check" value="二期部份学费" id="x11" checked="checked"/>
+                    <span class="weui-icon-checked"></span>
+                </div>
+            </label>
+            <label class="weui-cell weui-check__label" for="x12">
+
+                <div class="weui-cell__bd">
+                    <p>补考费用</p>
+                </div>
+                <div class="weui-cell__ft">
+                    <input type="radio" name="explain" class="weui-check" id="x12" value="补考费用"/>
+                    <span class="weui-icon-checked"></span>
+                </div>
+            </label>
+            <input type="hidden" name="payment_type" value="1">
+        </div>
+        <div class="weui-btn-area">
+            <a class="weui-btn weui-btn_primary" href="javascript:" id="showTooltips">确定</a>
+        </div>
+    </form>
+</div>
+<script>
+    $(function () {
+        $('#showTooltips').click(function () {
+            var thisForm = $('#baomingForm');
+            if (thisForm.find("input[name='name']").val() == '') {
+                showErrer('请填写真实姓名！');
+                return false;
+            }
+            var countMoney = thisForm.find("input[name='count_money']").val();
+            var regMoney = /\d+\.?\d{0,2}/;
+            if (countMoney.match(regMoney) == false) {
+                showErrer('请填写正确的金额！');
+                return false;
+            }
+            if (Number(countMoney) == 0 || Number(countMoney) > 10000) {
+                showErrer('金额太大，请线下交易！！');
+                return false;
+            }
+            thisForm.submit();
+        });
+        var showErrer = function ($errerTxt) {
+            var $tooltips = $('.js_tooltips');
+            $tooltips.text($errerTxt);
+            $tooltips.css('display', 'block');
+            setTimeout(function () {
+                $tooltips.css('display', 'none');
+            }, 2000);
+        }
+    });
+</script>
+{include file="Common/footer" /}

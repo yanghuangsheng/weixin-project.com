@@ -1,0 +1,60 @@
+[ 2017-11-12T15:56:22+08:00 ] 127.0.0.1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001436s ]
+
+[ 2017-11-12T15:59:19+08:00 ] 127.0.0.1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000841s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\Application\Home\Controller\IndexController.class.php on line 11 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 15 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000922s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000996s ]
+
+[ 2017-11-12T15:59:21+08:00 ] 127.0.0.1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000593s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000635s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\Application\Home\Controller\IndexController.class.php on line 11 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 15 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000686s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000731s ]
+
+[ 2017-11-12T15:59:22+08:00 ] 127.0.0.1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000806s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000865s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\Application\Home\Controller\IndexController.class.php on line 11 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 15 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000780s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000843s ]
+
+[ 2017-11-12T15:59:22+08:00 ] 127.0.0.1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000507s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\Application\Home\Controller\IndexController.class.php on line 11 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 15 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 17 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000713s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000758s ]
+

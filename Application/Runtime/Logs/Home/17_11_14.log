@@ -1,0 +1,2248 @@
+[ 2017-11-14T00:00:54+08:00 ] 127.0.0.1 /index.php?m=home&c=create_button
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000834s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000969s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php on line 123 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 17 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Button.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000863s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000932s ]
+
+[ 2017-11-14T00:00:58+08:00 ] 127.0.0.1 /index.php?m=home&c=create_button
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000550s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php on line 123 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 17 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Button.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000833s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000922s ]
+
+[ 2017-11-14T00:02:37+08:00 ] 127.0.0.1 /index.php?m=home&c=create_button
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000641s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php on line 123 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 17 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Button.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001990s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002168s ]
+
+[ 2017-11-14T00:04:00+08:00 ] 127.0.0.1 /index.php?m=home&c=create_button
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000829s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000885s ]
+
+[ 2017-11-14T00:04:26+08:00 ] 127.0.0.1 /index.php?m=home&c=create_button
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000643s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php on line 123 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 17 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Button.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001010s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001095s ]
+
+[ 2017-11-14T00:05:09+08:00 ] 127.0.0.1 /index.php?m=home&c=create_button
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000724s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php on line 123 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 17 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Button.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000945s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001016s ]
+
+[ 2017-11-14T00:05:12+08:00 ] 127.0.0.1 /index.php?m=home&c=create_button
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000578s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php on line 123 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 17 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Button.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002151s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002402s ]
+
+[ 2017-11-14T00:05:14+08:00 ] 127.0.0.1 /index.php?m=home&c=create_button
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000517s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php on line 123 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 17 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Button.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002397s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002591s ]
+
+[ 2017-11-14T00:05:15+08:00 ] 127.0.0.1 /index.php?m=home&c=create_button
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000502s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php on line 123 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 17 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Button.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000655s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000715s ]
+
+[ 2017-11-14T00:06:24+08:00 ] 127.0.0.1 /index.php?m=home&c=create_button
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000965s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001034s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php on line 123 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 17 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Use of undefined constant json - assumed 'json' D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Button.php 第 18 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001261s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001374s ]
+
+[ 2017-11-14T00:07:51+08:00 ] 127.0.0.1 /index.php?m=home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000583s ]
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 73 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 73 行.
+NOTIC: [8] Undefined variable: wx D:\www\weixin-project.com\Application\Home\Controller\IndexController.class.php 第 19 行.
+
+[ 2017-11-14T00:08:22+08:00 ] 127.0.0.1 /index.php?m=home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000576s ]
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 73 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 73 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 25 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000880s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000930s ]
+
+[ 2017-11-14T00:08:28+08:00 ] 127.0.0.1 /index.php?m=home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000641s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000692s ]
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 73 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 73 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 25 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000685s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000729s ]
+
+[ 2017-11-14T00:11:37+08:00 ] 127.0.0.1 /index.php?m=home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000699s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000752s ]
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 73 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 73 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 25 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001911s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002067s ]
+
+[ 2017-11-14T00:11:42+08:00 ] 127.0.0.1 /index.php?m=home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000751s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000819s ]
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 73 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 73 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 25 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001078s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001128s ]
+
+[ 2017-11-14T00:12:16+08:00 ] 127.0.0.1 /index.php?m=home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000728s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000774s ]
+
+[ 2017-11-14T00:12:33+08:00 ] 127.0.0.1 /index.php?m=home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000714s ]
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 74 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 74 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 25 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000693s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000746s ]
+
+[ 2017-11-14T00:14:41+08:00 ] 127.0.0.1 /index.php?m=home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000601s ]
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 73 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 73 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 25 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000825s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000876s ]
+
+[ 2017-11-14T00:14:42+08:00 ] 127.0.0.1 /index.php?m=home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000629s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000672s ]
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 73 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 73 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 25 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000723s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000773s ]
+
+[ 2017-11-14T00:15:18+08:00 ] 127.0.0.1 /index.php?m=home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000563s ]
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 73 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 73 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 25 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000751s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000799s ]
+
+[ 2017-11-14T00:15:33+08:00 ] 127.0.0.1 /index.php?m=home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000644s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000688s ]
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 73 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 73 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 25 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000718s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000785s ]
+
+[ 2017-11-14T00:15:35+08:00 ] 127.0.0.1 /index.php?m=home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000590s ]
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 73 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 73 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 25 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000822s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000892s ]
+
+[ 2017-11-14T00:16:14+08:00 ] 127.0.0.1 /index.php?m=home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000687s ]
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 74 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 74 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 25 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000743s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000803s ]
+
+[ 2017-11-14T00:36:47+08:00 ] 127.0.0.1 /index.php?m=home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000719s ]
+NOTIC: [2048] Accessing static property wechat\Wx::$config as non static D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [2048] Accessing static property wechat\Wx::$config as non static D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 26 行.
+NOTIC: [2048] Accessing static property wechat\Wx::$config as non static D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 26 行.
+NOTIC: [2048] Accessing static property wechat\Wx::$config as non static D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 31 行.
+NOTIC: [2048] Accessing static property wechat\Wx::$config as non static D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 31 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 68 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 68 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 25 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001237s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001323s ]
+
+[ 2017-11-14T00:36:49+08:00 ] 127.0.0.1 /index.php?m=home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000638s ]
+NOTIC: [2048] Accessing static property wechat\Wx::$config as non static D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [2048] Accessing static property wechat\Wx::$config as non static D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 26 行.
+NOTIC: [2048] Accessing static property wechat\Wx::$config as non static D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 26 行.
+NOTIC: [2048] Accessing static property wechat\Wx::$config as non static D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 31 行.
+NOTIC: [2048] Accessing static property wechat\Wx::$config as non static D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 31 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 68 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 68 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 25 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000792s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000846s ]
+
+[ 2017-11-14T00:44:17+08:00 ] 127.0.0.1 /index.php?m=home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000769s ]
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 68 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 68 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 25 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000790s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000839s ]
+
+[ 2017-11-14T00:44:19+08:00 ] 127.0.0.1 /index.php?m=home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000864s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000921s ]
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 68 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 68 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 25 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000736s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000789s ]
+
+[ 2017-11-14T00:44:20+08:00 ] 127.0.0.1 /index.php?m=home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000521s ]
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 68 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 68 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 25 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000846s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001015s ]
+
+[ 2017-11-14T04:11:46+08:00 ] 127.0.0.1 /index.php?m=home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000797s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000872s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\Application\Home\Controller\CommonController.class.php on line 19 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 76 行.
+
+[ 2017-11-14T04:14:41+08:00 ] 127.0.0.1 /index.php?m=home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000825s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000871s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\Application\Home\Controller\CommonController.class.php on line 19 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\Application\Home\Controller\IndexController.class.php 第 27 行.
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php on line 126 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 27 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003841s ]
+
+[ 2017-11-14T14:06:38+08:00 ] 127.0.0.1 /index.php?m=home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003211s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003317s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0324s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0018s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\Application\Home\Controller\CommonController.class.php on line 21 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\Application\Home\Controller\IndexController.class.php 第 34 行.
+SQL: SELECT `content` FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0017s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php on line 126 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 27 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005099s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005346s ]
+
+[ 2017-11-14T14:06:54+08:00 ] 127.0.0.1 /index.php?c=gonglue
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0517s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0025s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\Application\Home\Controller\CommonController.class.php on line 21 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003650s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003953s ]
+
+[ 2017-11-14T14:06:55+08:00 ] 127.0.0.1 /index.php?c=gonglue
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000284s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002480s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001103s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001237s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0408s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0015s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\Application\Home\Controller\CommonController.class.php on line 21 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004180s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004547s ]
+
+[ 2017-11-14T14:07:04+08:00 ] 127.0.0.1 /index.php?c=gonglue&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000747s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001606s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0336s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0018s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\Application\Home\Controller\CommonController.class.php on line 21 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+SQL: SHOW COLUMNS FROM `ya_gonglue` [ RunTime:0.0295s ]
+SQL: SELECT * FROM `ya_gonglue` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0014s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset: 1 D:\www\weixin-project.com\ThinkPHP\Library\Think\Template.class.php 第 527 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000162s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000302s ]
+
+[ 2017-11-14T14:07:41+08:00 ] 127.0.0.1 /index.php?c=gonglue&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001879s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0502s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0022s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\Application\Home\Controller\CommonController.class.php on line 21 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+SQL: SHOW COLUMNS FROM `ya_gonglue` [ RunTime:0.0454s ]
+SQL: SELECT * FROM `ya_gonglue` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0017s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001155s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001926s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051326s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051749s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003077s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003335s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002788s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003057s ]
+
+[ 2017-11-14T14:08:33+08:00 ] 127.0.0.1 /index.php?c=gonglue&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000925s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000998s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0471s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0021s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\Application\Home\Controller\CommonController.class.php on line 21 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+SQL: SHOW COLUMNS FROM `ya_gonglue` [ RunTime:0.0319s ]
+SQL: SELECT * FROM `ya_gonglue` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0017s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000267s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000419s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026802s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026994s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001535s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001692s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002629s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002800s ]
+
+[ 2017-11-14T14:11:58+08:00 ] 127.0.0.1 /index.php?c=gonglue&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000831s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001481s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0460s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0021s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\Application\Home\Controller\CommonController.class.php on line 21 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+SQL: SHOW COLUMNS FROM `ya_gonglue` [ RunTime:0.0467s ]
+SQL: SELECT * FROM `ya_gonglue` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0019s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000415s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000760s ]
+NOTIC: [8] Undefined index: update_time D:\www\weixin-project.com\Application\Runtime\Cache\Home\6ac22c476bb3cfe90bca36ace4636b87.php 第 38 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.063678s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.063949s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001466s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001628s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002300s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002475s ]
+
+[ 2017-11-14T14:13:44+08:00 ] 127.0.0.1 /index.php?c=gonglue&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0293s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0013s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\Application\Home\Controller\CommonController.class.php on line 21 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+SQL: SHOW COLUMNS FROM `ya_gonglue` [ RunTime:0.0374s ]
+SQL: SELECT * FROM `ya_gonglue` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0018s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000185s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000341s ]
+NOTIC: [8] Undefined index: update_time D:\www\weixin-project.com\Application\Runtime\Cache\Home\6ac22c476bb3cfe90bca36ace4636b87.php 第 38 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024373s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024523s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001309s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001430s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001644s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001749s ]
+
+[ 2017-11-14T14:15:42+08:00 ] 127.0.0.1 /index.php?c=gonglue&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000706s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000778s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0478s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0016s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\Application\Home\Controller\CommonController.class.php on line 21 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+SQL: SHOW COLUMNS FROM `ya_gonglue` [ RunTime:0.0286s ]
+SQL: SELECT * FROM `ya_gonglue` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0012s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000214s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000436s ]
+NOTIC: [8] Undefined index: update_time D:\www\weixin-project.com\Application\Runtime\Cache\Home\6ac22c476bb3cfe90bca36ace4636b87.php 第 38 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027762s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027944s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001950s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002111s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002218s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002347s ]
+
+[ 2017-11-14T14:16:40+08:00 ] 127.0.0.1 /index.php?c=gonglue&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001119s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001194s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0474s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\Application\Home\Controller\CommonController.class.php on line 21 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+SQL: SHOW COLUMNS FROM `ya_gonglue` [ RunTime:0.0404s ]
+SQL: SELECT * FROM `ya_gonglue` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000296s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000487s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026126s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026335s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001279s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001392s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001884s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002003s ]
+
+[ 2017-11-14T14:19:10+08:00 ] 127.0.0.1 /index.php?c=gonglue&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000903s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0226s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\Application\Home\Controller\CommonController.class.php on line 21 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+SQL: SHOW COLUMNS FROM `ya_gonglue` [ RunTime:0.0538s ]
+SQL: SELECT * FROM `ya_gonglue` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0015s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000367s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000678s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049606s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049964s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002805s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003112s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007472s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007801s ]
+
+[ 2017-11-14T14:19:52+08:00 ] 127.0.0.1 /index.php?c=gonglue&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000779s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000843s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0483s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0011s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\Application\Home\Controller\CommonController.class.php on line 21 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+SQL: SHOW COLUMNS FROM `ya_gonglue` [ RunTime:0.0305s ]
+SQL: SELECT * FROM `ya_gonglue` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000271s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000491s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029387s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029694s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001370s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001494s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002189s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002367s ]
+
+[ 2017-11-14T14:21:16+08:00 ] 127.0.0.1 /index.php?c=gonglue&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001235s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0608s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0017s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\Application\Home\Controller\CommonController.class.php on line 21 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+SQL: SHOW COLUMNS FROM `ya_gonglue` [ RunTime:0.0414s ]
+SQL: SELECT * FROM `ya_gonglue` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0027s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000201s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000360s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030435s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030629s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001957s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002080s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002877s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003068s ]
+
+[ 2017-11-14T14:26:16+08:00 ] 127.0.0.1 /index.php?c=gonglue&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000958s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000907s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000990s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0318s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0013s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\Application\Home\Controller\CommonController.class.php on line 21 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+SQL: SHOW COLUMNS FROM `ya_gonglue` [ RunTime:0.0326s ]
+SQL: SELECT * FROM `ya_gonglue` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000181s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000317s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025451s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025656s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001423s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001549s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002794s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002995s ]
+
+[ 2017-11-14T14:26:19+08:00 ] 127.0.0.1 /index.php?c=gonglue&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000872s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000767s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0318s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0016s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\Application\Home\Controller\CommonController.class.php on line 21 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+SQL: SHOW COLUMNS FROM `ya_gonglue` [ RunTime:0.0308s ]
+SQL: SELECT * FROM `ya_gonglue` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000178s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000316s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024682s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024840s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001454s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001577s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001944s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002068s ]
+
+[ 2017-11-14T18:59:19+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000746s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000811s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0334s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0022s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\Application\Home\Controller\CommonController.class.php on line 21 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\Application\Home\Controller\IndexController.class.php 第 34 行.
+SQL: SELECT `content` FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0012s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php on line 153 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 27 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002514s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002649s ]
+
+[ 2017-11-14T19:02:32+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000651s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0257s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\Application\Home\Controller\CommonController.class.php on line 21 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\Application\Home\Controller\IndexController.class.php 第 34 行.
+SQL: SELECT `content` FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php on line 153 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 27 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000823s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000892s ]
+
+[ 2017-11-14T19:02:32+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000721s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0288s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0008s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\Application\Home\Controller\CommonController.class.php on line 21 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\Application\Home\Controller\IndexController.class.php 第 34 行.
+SQL: SELECT `content` FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php on line 153 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 27 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000879s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000931s ]
+
+[ 2017-11-14T19:02:43+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001569s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001707s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001792s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\Application\Home\Controller\CommonController.class.php on line 21 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\Application\Home\Controller\IndexController.class.php 第 34 行.
+SQL: SELECT `content` FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php on line 153 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 27 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000866s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000924s ]
+
+[ 2017-11-14T19:15:12+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000637s ]
+
+[ 2017-11-14T19:19:42+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000763s ]
+
+[ 2017-11-14T19:20:56+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000613s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0108s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\Application\Home\Controller\CommonController.class.php on line 21 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 130 行.
+
+[ 2017-11-14T19:24:21+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000715s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000751s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000803s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\Application\Home\Controller\CommonController.class.php on line 21 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 130 行.
+
+[ 2017-11-14T19:25:27+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000704s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0098s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\Application\Home\Controller\CommonController.class.php on line 21 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 101 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 131 行.
+
+[ 2017-11-14T19:26:29+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000633s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000679s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0231s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\Application\Home\Controller\CommonController.class.php on line 21 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 101 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 131 行.
+
+[ 2017-11-14T19:27:13+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000963s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001044s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0237s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\Application\Home\Controller\CommonController.class.php on line 21 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 101 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 131 行.
+
+[ 2017-11-14T19:28:05+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000876s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000939s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0118s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\Application\Home\Controller\CommonController.class.php on line 21 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000933s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000998s ]
+
+[ 2017-11-14T19:29:58+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000779s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000837s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0115s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\Application\Home\Controller\CommonController.class.php on line 21 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 34 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appSecret D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 39 行.
+NOTIC: [8] Undefined index: appId D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 101 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000880s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000944s ]
+
+[ 2017-11-14T19:50:27+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000708s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000769s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000801s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000875s ]
+
+[ 2017-11-14T19:51:26+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000701s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000753s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-11-14T19:53:03+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000663s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0241s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0008s ]
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\Application\Home\Controller\IndexController.class.php 第 34 行.
+SQL: SELECT `content` FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php on line 181 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 27 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000878s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000933s ]
+
+[ 2017-11-14T20:05:37+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000756s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-11-14T20:07:47+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000824s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000831s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0201s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0011s ]
+
+[ 2017-11-14T20:08:31+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000605s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000674s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0187s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2017-11-14T20:08:53+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000502s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000558s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0213s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-11-14T20:09:40+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000699s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-11-14T20:19:42+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000938s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000988s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0209s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-11-14T20:20:06+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000575s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0193s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2017-11-14T20:20:08+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000655s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0248s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0012s ]
+
+[ 2017-11-14T20:20:11+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000750s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0121s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-11-14T20:20:12+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000733s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000780s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\Application\Home\Controller\IndexController.class.php 第 34 行.
+SQL: SELECT `content` FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php on line 181 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 27 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000878s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000940s ]
+
+[ 2017-11-14T20:20:14+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000774s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0198s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2017-11-14T20:20:15+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000802s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000739s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000806s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0093s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-11-14T20:20:16+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0102s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-11-14T20:23:42+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000703s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0115s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-11-14T20:23:44+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000551s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000606s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0220s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\Application\Home\Controller\IndexController.class.php 第 34 行.
+SQL: SELECT `content` FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0012s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php on line 181 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 27 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000884s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000937s ]
+
+[ 2017-11-14T20:23:55+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002172s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000904s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0279s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0017s ]
+
+[ 2017-11-14T20:23:57+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm&code=0814S4cj2rQAYE04QOaj2pZXbj24S4cF&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000849s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000938s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0145s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2017-11-14T20:31:29+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000910s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000784s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0099s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0008s ]
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 76 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\Application\Home\Controller\IndexController.class.php 第 34 行.
+SQL: SELECT `content` FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0018s ]
+NOTIC: [4096] Argument 1 passed to wechat\Wx::__construct() must be of the type array, none given, called in D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php on line 192 and defined D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 19 行.
+NOTIC: [8] Undefined variable: config D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 21 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 27 行.
+NOTIC: [8] Trying to get property of non-object D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\build\Message.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003708s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003992s ]
+
+[ 2017-11-14T20:33:28+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001167s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001272s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0234s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0012s ]
+
+[ 2017-11-14T20:33:29+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000763s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000733s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0224s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-11-14T20:33:31+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm&code=011BvFET1JF8V71EIoCT1wVuET1BvFEw&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000765s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000821s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0125s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000889s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000963s ]
+
+[ 2017-11-14T20:34:21+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000877s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0295s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2017-11-14T20:34:24+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm&code=021aOJWy1HcBuh0W1l0z1tMBWy1aOJWs&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000821s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000881s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0286s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0015s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002194s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002387s ]
+
+[ 2017-11-14T20:58:23+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000795s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0225s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0011s ]
+
+[ 2017-11-14T20:58:25+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm&code=071qARy625GMvK015Cw6284zy62qARyi&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000828s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000902s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0226s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `ya_user` [ RunTime:0.0220s ]
+SQL: SELECT `id` FROM `ya_user` WHERE `openid` = 'ohfCW0Vsur9j3EhuF6fpYD_Yp6ZY' LIMIT 1   [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001560s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001674s ]
+
+[ 2017-11-14T20:59:12+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm&code=071qARy625GMvK015Cw6284zy62qARyi&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000846s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0290s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0017s ]
+NOTIC: [8] Undefined index: openid D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 123 行.
+SQL: SHOW COLUMNS FROM `ya_user` [ RunTime:0.0167s ]
+SQL: SELECT `id` FROM `ya_user` WHERE `openid` = '' LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001244s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001485s ]
+
+[ 2017-11-14T20:59:26+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000568s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001116s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001166s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0207s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2017-11-14T20:59:29+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm&code=061d93u42YoPYM0leMu42e3Ht42d93uF&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000603s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0196s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `ya_user` [ RunTime:0.0183s ]
+SQL: SELECT `id` FROM `ya_user` WHERE `openid` = 'ohfCW0Vsur9j3EhuF6fpYD_Yp6ZY' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001068s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001149s ]
+
+[ 2017-11-14T20:59:41+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001460s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0323s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0011s ]
+
+[ 2017-11-14T20:59:43+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm&code=011SDtiU1BkP1V0CxLiU1C0LiU1SDtio&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000885s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001029s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0215s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ya_user` [ RunTime:0.0250s ]
+SQL: SELECT `id` FROM `ya_user` WHERE `openid` = 'ohfCW0Vsur9j3EhuF6fpYD_Yp6ZY' LIMIT 1   [ RunTime:0.0013s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001127s ]
+
+[ 2017-11-14T21:01:21+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000754s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0251s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-11-14T21:01:23+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm&code=011VJrzY1AjrLU0HtYyY1ojOzY1VJrz7&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000657s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000712s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ya_user` [ RunTime:0.0229s ]
+SQL: SELECT `id` FROM `ya_user` WHERE `openid` = 'ohfCW0Vsur9j3EhuF6fpYD_Yp6ZY' LIMIT 1   [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003363s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003532s ]
+
+[ 2017-11-14T21:02:59+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001829s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000772s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000877s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0111s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-11-14T21:03:01+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm&code=081HrOZj0Wm0Pn1y2zXj0tLLZj0HrOZ8&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000710s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0250s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `ya_user` [ RunTime:0.0156s ]
+SQL: SELECT `id` FROM `ya_user` WHERE `openid` = 'ohfCW0Vsur9j3EhuF6fpYD_Yp6ZY' LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001126s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001228s ]
+
+[ 2017-11-14T21:04:10+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001171s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001065s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0216s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2017-11-14T21:04:13+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm&code=071RUMu72bsjwL0IuKx72NrTu72RUMuK&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000714s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0235s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `ya_user` [ RunTime:0.0331s ]
+SQL: SELECT `id` FROM `ya_user` WHERE `openid` = 'ohfCW0Vsur9j3EhuF6fpYD_Yp6ZY' LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001780s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001917s ]
+
+[ 2017-11-14T21:05:38+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000856s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001030s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0216s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0013s ]
+
+[ 2017-11-14T21:05:40+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm&code=071jo37I12SSv80TcU7I1zPd7I1jo37z&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000593s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0360s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `ya_user` [ RunTime:0.0180s ]
+SQL: SELECT `id` FROM `ya_user` WHERE `openid` = 'ohfCW0Vsur9j3EhuF6fpYD_Yp6ZY' LIMIT 1   [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002011s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002152s ]
+
+[ 2017-11-14T21:11:34+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000891s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002010s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002192s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0201s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0011s ]
+
+[ 2017-11-14T21:11:36+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm&code=021jhJuK0uLKx62j7FxK0xXpuK0jhJux&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001576s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001192s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0229s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `ya_user` [ RunTime:0.0289s ]
+SQL: SELECT `id` FROM `ya_user` WHERE `openid` = 'ohfCW0Vsur9j3EhuF6fpYD_Yp6ZY' LIMIT 1   [ RunTime:0.0013s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002203s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002333s ]
+
+[ 2017-11-14T21:50:25+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000969s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0346s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2017-11-14T21:50:27+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm&code=081gTgGd1Rf51s0GVAFd1iV3Gd1gTgGh&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001182s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0281s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `ya_user` [ RunTime:0.0189s ]
+SQL: SELECT `id` FROM `ya_user` WHERE `openid` = 'ohfCW0Vsur9j3EhuF6fpYD_Yp6ZY' LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001282s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001392s ]
+
+[ 2017-11-14T21:50:56+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000582s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000702s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0237s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0015s ]
+
+[ 2017-11-14T21:50:59+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm&code=001YpoND1wJLa401N2PD1apbND1YpoNk&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000919s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001006s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `ya_user` [ RunTime:0.0140s ]
+SQL: SELECT `id` FROM `ya_user` WHERE `openid` = 'ohfCW0Vsur9j3EhuF6fpYD_Yp6ZY' LIMIT 1   [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001120s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001190s ]
+
+[ 2017-11-14T21:52:51+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001552s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0142s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001109s ]
+
+[ 2017-11-14T21:52:55+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001878s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000724s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000814s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0194s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000778s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000839s ]
+
+[ 2017-11-14T21:53:17+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001196s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0206s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002011s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002164s ]
+
+[ 2017-11-14T21:53:32+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000733s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000711s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0249s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002192s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002358s ]
+
+[ 2017-11-14T21:54:00+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001784s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0115s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001462s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001600s ]
+
+[ 2017-11-14T22:13:29+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000832s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000923s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0210s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0011s ]
+NOTIC: [2] require_once(../lib/WxPay.Api.php): failed to open stream: No such file or directory D:\www\weixin-project.com\ThinkPHP\Library\Vendor\Wxpay\example\WxPay.JsApiPay.php 第 2 行.
+
+[ 2017-11-14T22:15:48+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000982s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000883s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000954s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0145s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2017-11-14T22:19:18+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000746s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000793s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0313s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0014s ]
+
+[ 2017-11-14T22:22:19+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000743s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0207s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-11-14T22:22:51+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000923s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001007s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0336s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0009s ]
+
+[ 2017-11-14T22:23:15+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000739s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000794s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0182s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0009s ]
+NOTIC: [2] fopen(../logs/2017-11-14.log): failed to open stream: No such file or directory D:\www\weixin-project.com\ThinkPHP\Library\Vendor\Wxpay\example\log.php 第 16 行.
+
+[ 2017-11-14T22:23:48+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000858s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0155s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [2] fopen(../logs/2017-11-14.log): failed to open stream: No such file or directory D:\www\weixin-project.com\ThinkPHP\Library\Vendor\Wxpay\example\log.php 第 16 行.
+NOTIC: [8] Undefined variable: openId D:\www\weixin-project.com\Application\Home\Controller\PaymentController.class.php 第 45 行.
+ERR: curl出错，错误码:60
+
+[ 2017-11-14T22:28:28+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001308s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001300s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0007s ]
+NOTIC: [2] fopen(../logs/2017-11-14.log): failed to open stream: No such file or directory D:\www\weixin-project.com\ThinkPHP\Library\Vendor\Wxpay\example\log.php 第 16 行.
+NOTIC: [8] Undefined variable: openId D:\www\weixin-project.com\Application\Home\Controller\PaymentController.class.php 第 45 行.
+ERR: 参数错误
+
+[ 2017-11-14T22:29:58+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000730s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] fopen(../logs/2017-11-14.log): failed to open stream: No such file or directory D:\www\weixin-project.com\ThinkPHP\Library\Vendor\Wxpay\example\log.php 第 16 行.
+NOTIC: [8] Undefined variable: homeUser D:\www\weixin-project.com\Application\Home\Controller\PaymentController.class.php 第 45 行.
+NOTIC: [8] Array to string conversion D:\www\weixin-project.com\ThinkPHP\Library\Vendor\Wxpay\lib\WxPay.Data.php 第 66 行.
+ERR: 参数错误
+
+[ 2017-11-14T22:30:43+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000980s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000765s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2017-11-14T22:30:46+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm&code=011vTBR72m6DpQ0z3TS72ieLR72vTBRu&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000847s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000898s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0116s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ya_user` [ RunTime:0.0131s ]
+SQL: SELECT `id` FROM `ya_user` WHERE `openid` = 'ohfCW0Vsur9j3EhuF6fpYD_Yp6ZY' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [2] fopen(../logs/2017-11-14.log): failed to open stream: No such file or directory D:\www\weixin-project.com\ThinkPHP\Library\Vendor\Wxpay\example\log.php 第 16 行.
+NOTIC: [8] Undefined variable: homeUser D:\www\weixin-project.com\Application\Home\Controller\PaymentController.class.php 第 45 行.
+NOTIC: [8] Array to string conversion D:\www\weixin-project.com\ThinkPHP\Library\Vendor\Wxpay\lib\WxPay.Data.php 第 66 行.
+ERR: 参数错误
+
+[ 2017-11-14T22:33:38+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000942s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001901s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0118s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-11-14T22:33:41+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm&code=011sAdK41MTQRL1am0M41Fr4K41sAdK7&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000692s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0097s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `ya_user` [ RunTime:0.0119s ]
+SQL: SELECT `id` FROM `ya_user` WHERE `openid` = 'ohfCW0Vsur9j3EhuF6fpYD_Yp6ZY' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [2] fopen(../logs/2017-11-14.log): failed to open stream: No such file or directory D:\www\weixin-project.com\ThinkPHP\Library\Vendor\Wxpay\example\log.php 第 16 行.
+NOTIC: [8] Undefined variable: homeUser D:\www\weixin-project.com\Application\Home\Controller\PaymentController.class.php 第 45 行.
+NOTIC: [8] Array to string conversion D:\www\weixin-project.com\ThinkPHP\Library\Vendor\Wxpay\lib\WxPay.Data.php 第 66 行.
+ERR: 参数错误
+
+[ 2017-11-14T23:16:24+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000148s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001544s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0133s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2017-11-14T23:16:26+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm&code=001xDpAi0dNRom1Biczi0RTdAi0xDpAi&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000677s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0242s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ya_user` [ RunTime:0.0168s ]
+SQL: SELECT `id` FROM `ya_user` WHERE `openid` = 'ohfCW0Vsur9j3EhuF6fpYD_Yp6ZY' LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2017-11-14T23:17:51+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000658s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0192s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0019s ]
+
+[ 2017-11-14T23:17:54+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm&code=071JxrOs1AiuUo0c0uLs1T8xOs1JxrOL&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001693s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0153s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ya_user` [ RunTime:0.0145s ]
+SQL: SELECT `id` FROM `ya_user` WHERE `openid` = 'ohfCW0Vsur9j3EhuF6fpYD_Yp6ZY' LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant SSLCERT_PATH - assumed 'SSLCERT_PATH' D:\www\weixin-project.com\Application\Home\Controller\PaymentController.class.php 第 20 行.
+NOTIC: [2] fopen(../logs/2017-11-14.log): failed to open stream: No such file or directory D:\www\weixin-project.com\ThinkPHP\Library\Vendor\Wxpay\example\log.php 第 16 行.
+NOTIC: [8] Undefined variable: homeUser D:\www\weixin-project.com\Application\Home\Controller\PaymentController.class.php 第 45 行.
+NOTIC: [8] Array to string conversion D:\www\weixin-project.com\ThinkPHP\Library\Vendor\Wxpay\lib\WxPay.Data.php 第 66 行.
+ERR: 参数错误
+
+[ 2017-11-14T23:20:27+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000769s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0221s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0015s ]
+
+[ 2017-11-14T23:20:29+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm&code=001Emd9x0P4iSi1ooe9x0deT8x0Emd9O&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000845s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000975s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0207s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `ya_user` [ RunTime:0.0153s ]
+SQL: SELECT `id` FROM `ya_user` WHERE `openid` = 'ohfCW0Vsur9j3EhuF6fpYD_Yp6ZY' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-11-14T23:22:05+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm&code=001Emd9x0P4iSi1ooe9x0deT8x0Emd9O&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000521s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0146s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: openid D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 123 行.
+SQL: SHOW COLUMNS FROM `ya_user` [ RunTime:0.0125s ]
+SQL: SELECT `id` FROM `ya_user` WHERE `openid` = '' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-11-14T23:25:37+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001984s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002034s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0179s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2017-11-14T23:25:39+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm&code=0614p8v42T4xZM0v6rt429jcv424p8vP&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000704s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000773s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0101s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `ya_user` [ RunTime:0.0092s ]
+SQL: SELECT `id` FROM `ya_user` WHERE `openid` = 'ohfCW0Vsur9j3EhuF6fpYD_Yp6ZY' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-11-14T23:30:17+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000133s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001786s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001442s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0099s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0008s ]
+
+[ 2017-11-14T23:30:19+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm&code=021qnmJ22vXVPY0o17G22RenJ22qnmJ1&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000652s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000715s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0192s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `ya_user` [ RunTime:0.0192s ]
+SQL: SELECT `id` FROM `ya_user` WHERE `openid` = 'ohfCW0Vsur9j3EhuF6fpYD_Yp6ZY' LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2017-11-14T23:30:52+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000558s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000623s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0109s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-11-14T23:30:54+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm&code=081lJYtN0Xo9052BFDsN0UQ3uN0lJYt7&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001105s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0165s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `ya_user` [ RunTime:0.0100s ]
+SQL: SELECT `id` FROM `ya_user` WHERE `openid` = 'ohfCW0Vsur9j3EhuF6fpYD_Yp6ZY' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-11-14T23:31:20+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm&code=081lJYtN0Xo9052BFDsN0UQ3uN0lJYt7&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001981s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0096s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: openid D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 123 行.
+SQL: SHOW COLUMNS FROM `ya_user` [ RunTime:0.0127s ]
+SQL: SELECT `id` FROM `ya_user` WHERE `openid` = '' LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-11-14T23:32:23+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm&code=081lJYtN0Xo9052BFDsN0UQ3uN0lJYt7&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000643s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000696s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0141s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: openid D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 123 行.
+SQL: SHOW COLUMNS FROM `ya_user` [ RunTime:0.0084s ]
+SQL: SELECT `id` FROM `ya_user` WHERE `openid` = '' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-11-14T23:32:50+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm&code=081lJYtN0Xo9052BFDsN0UQ3uN0lJYt7&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000746s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001197s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001348s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0239s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: openid D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 123 行.
+SQL: SHOW COLUMNS FROM `ya_user` [ RunTime:0.0157s ]
+SQL: SELECT `id` FROM `ya_user` WHERE `openid` = '' LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2017-11-14T23:33:13+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000740s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0123s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2017-11-14T23:33:16+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm&code=011wU2Xv1RyKS90zbNTv1qpHWv1wU2Xe&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000677s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `ya_user` [ RunTime:0.0095s ]
+SQL: SELECT `id` FROM `ya_user` WHERE `openid` = 'ohfCW0Vsur9j3EhuF6fpYD_Yp6ZY' LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [2] fopen(../logs/2017-11-14.log): failed to open stream: No such file or directory D:\www\weixin-project.com\ThinkPHP\Library\Vendor\Wxpay\example\log.php 第 16 行.
+NOTIC: [8] Undefined variable: homeUser D:\www\weixin-project.com\Application\Home\Controller\PaymentController.class.php 第 43 行.
+NOTIC: [8] Array to string conversion D:\www\weixin-project.com\ThinkPHP\Library\Vendor\Wxpay\lib\WxPay.Data.php 第 66 行.
+ERR: 参数错误
+
+[ 2017-11-14T23:36:40+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm&code=011wU2Xv1RyKS90zbNTv1qpHWv1wU2Xe&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000975s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000781s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0085s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: openid D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 123 行.
+SQL: SHOW COLUMNS FROM `ya_user` [ RunTime:0.0109s ]
+SQL: SELECT `id` FROM `ya_user` WHERE `openid` = '' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-11-14T23:37:28+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm&code=011wU2Xv1RyKS90zbNTv1qpHWv1wU2Xe&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000696s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000756s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0224s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: openid D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 123 行.
+SQL: SHOW COLUMNS FROM `ya_user` [ RunTime:0.0119s ]
+SQL: SELECT `id` FROM `ya_user` WHERE `openid` = '' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-11-14T23:38:46+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm&code=011wU2Xv1RyKS90zbNTv1qpHWv1wU2Xe&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001098s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0104s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: openid D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 123 行.
+SQL: SHOW COLUMNS FROM `ya_user` [ RunTime:0.0101s ]
+SQL: SELECT `id` FROM `ya_user` WHERE `openid` = '' LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2017-11-14T23:41:10+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000316s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000946s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000836s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000916s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0213s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-11-14T23:41:13+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm&code=061Y735c1Xv0Tu0SyL4c15285c1Y735w&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000556s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0182s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `ya_user` [ RunTime:0.0179s ]
+SQL: SELECT `id` FROM `ya_user` WHERE `openid` = 'ohfCW0Vsur9j3EhuF6fpYD_Yp6ZY' LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2017-11-14T23:45:01+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000893s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000942s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0135s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0007s ]
+
+[ 2017-11-14T23:45:03+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm&code=061rwIOl1KUgxm01PEOl1PbNOl1rwIOA&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000817s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000901s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0210s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `ya_user` [ RunTime:0.0138s ]
+SQL: SELECT `id` FROM `ya_user` WHERE `openid` = 'ohfCW0Vsur9j3EhuF6fpYD_Yp6ZY' LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-11-14T23:45:14+08:00 ] 127.0.0.1 /index.php?c=Payment&a=confirm&code=061rwIOl1KUgxm01PEOl1PbNOl1rwIOA&state=STATE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000812s ]
+SQL: SHOW COLUMNS FROM `ya_settings` [ RunTime:0.0111s ]
+SQL: SELECT * FROM `ya_settings` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: openid D:\www\weixin-project.com\ThinkPHP\Library\Vendor\wechat\Wx.php 第 123 行.
+SQL: SHOW COLUMNS FROM `ya_user` [ RunTime:0.0103s ]
+SQL: SELECT `id` FROM `ya_user` WHERE `openid` = '' LIMIT 1   [ RunTime:0.0004s ]
+

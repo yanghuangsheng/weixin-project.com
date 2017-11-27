@@ -1,0 +1,105 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>会员管理</title>
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="format-detection" content="telephone=no">
+
+    <link rel="stylesheet" href="Public/Admin/plugins/layui/css/layui.css" media="all"/>
+    <link rel="stylesheet" href="Public/Admin/plugins/font-awesome/css/font-awesome.min.css">
+
+</head>
+
+<body style=" background-color: gainsboro;">
+<style>
+    .layui-table-view {
+        margin: 10px 0 0 0;
+    }
+</style>
+<div style="margin:0px; background-color: white; margin:0 3px;">
+    <blockquote class="layui-elem-quote">
+        <!--<button type="button" class="layui-btn layui-btn-small" id="getAll">-->
+        <!--<i class="fa fa-plus" aria-hidden="true"></i> 添加-->
+        <!--</button>-->
+
+        <div class="demoTable">
+            搜索ID：
+            <div class="layui-inline">
+                <input class="layui-input" name="id" id="demoReload" autocomplete="off">
+            </div>
+            <button class="layui-btn" data-type="reload">搜索</button>
+        </div>
+
+    </blockquote>
+
+
+    <table class="layui-hide" id="LAY_table_user" lay-filter="user"></table>
+
+</div>
+
+<script type="text/javascript" src="Public/Admin/plugins/layui/layui.all.js"></script>
+<script>
+    layui.use('table', function () {
+        var table = layui.table;
+        //方法级渲染
+        table.render({
+            elem: '#LAY_table_user'
+            , url: window.location.search + '&_format_=json'
+            , cols: [[
+                {checkbox: true, fixed: true}
+                , {field: 'id', title: 'ID', width: 80, sort: true, fixed: true}
+                , {field: 'openid', title: '微信唯一标识', width: 280}
+                , {field: 'name', title: '呢称', width: 180}
+                , {field: 'avatar', title: '头像', width: 80}
+                , {field: 'register_time', title: '关注时间', width: 180, sort: true}
+            ]]
+            , id: 'testReload'
+            , page: true
+            , height: 'full-78'
+            , even: true
+        });
+
+        table.on('sort(test)', function(obj){ //注：tool是工具条事件名，test是table原始容器的属性 lay-filter="对应的值"
+            console.log(obj.field); //当前排序的字段名
+            console.log(obj.type); //当前排序类型：desc（降序）、asc（升序）、null（空对象，默认排序）
+            console.log(this); //当前排序的 th 对象
+
+            //尽管我们的 table 自带排序功能，但并没有请求服务端。
+            //有些时候，你可能需要根据当前排序的字段，重新向服务端发送请求，如：
+            table.reload('idTest', {
+                initSort: obj //记录初始排序，如果不设的话，将无法标记表头的排序状态。 layui 2.1.1 新增参数
+                ,where: { //请求参数
+                    field: obj.field //排序字段
+                    ,order: obj.type //排序方式
+                }
+            });
+        });
+
+        var $ = layui.$, active = {
+            reload: function () {
+                var demoReload = $('#demoReload');
+
+                table.reload('testReload', {
+                    where: {
+                        key: {
+                            id: demoReload.val()
+                        }
+                    }
+                });
+            }
+        };
+        $('.demoTable .layui-btn').on('click', function () {
+            var type = $(this).data('type');
+            active[type] ? active[type].call(this) : '';
+        });
+    });
+</script>
+</body>
+
+</html>
